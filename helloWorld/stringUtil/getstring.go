@@ -1,3 +1,3 @@
-package stringUtil
+package stringutil
 
 var string = "Pranay"
